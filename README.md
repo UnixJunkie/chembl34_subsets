@@ -1,4 +1,5 @@
 Two subsets of molecules from ChEMBL-34[1].
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13836270.svg)](https://doi.org/10.5281/zenodo.13836270)
 
 Those molecular datasets might be useful to people training molecular generators.
 
