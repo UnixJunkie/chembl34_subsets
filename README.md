@@ -21,7 +21,6 @@ DL=Drug-Like (definition from [4]).
 https://github.com/UnixJunkie/molenc/blob/master/bin/molenc_drug.py
 
 # Bibliography
-==============
 
 [1] Zdrazil, B., Felix, E., Hunter, F., Manners, E. J., Blackshaw, J., Corbett, S., ... & Leach, A. R. (2024).
 The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioactivity data types and time periods.
