@@ -7,13 +7,21 @@ chembl34_stable_ES_OA_LL.smi: 585,272 molecules.
 chembl34_stable_ES_OA_DL.smi: 756,420 molecules.
 
 stable=non-reactive molecules (filtered-out reactive functional groups from [5]).
+
 https://github.com/UnixJunkie/molenc/blob/master/bin/molenc_stable.py
+
 ES=Easy Synthesis (SAscore <= 3.0) [2].
+
 https://github.com/UnixJunkie/molenc/blob/master/bin/molenc_SA.py
+
 OA=Orally Available (according to a classifier trained on the dataset from [6]).
+
 LL=Lead-Like (almost the definition from [3]).
+
 https://github.com/UnixJunkie/molenc/blob/master/bin/molenc_lead.py
+
 DL=Drug-Like (definition from [4]).
+
 https://github.com/UnixJunkie/molenc/blob/master/bin/molenc_drug.py
 
 # Bibliography
